@@ -9,4 +9,4 @@
 - 😄 Pronouns: I'm not taking part in that LMBTQ thing, He/Him
 - ⚡ Fun fact: No.
 - 🇫🇷 Languages: Hungarian, English.
-- 🇫🇷 I learned but no longer use: Bulgarian, Chinese, Romanian, Russian, Spanish.
+- 🇫🇷 Languages I learned but no longer use: Bulgarian, Chinese, Romanian, Russian, Spanish.
