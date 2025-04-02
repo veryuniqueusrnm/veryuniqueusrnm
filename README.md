@@ -10,3 +10,4 @@
 - ⚡ Fun fact: No.
 - 🇫🇷 Languages: Hungarian, English.
 - 🇫🇷 Languages I learned but no longer use: Bulgarian, Chinese, Romanian, Russian, Spanish.
+- 💭 Favorite quote: "No matter where you are, whenever it's a quarter mile away, or halfway across the world, you'll be always with me, and you'll always be my brother."
