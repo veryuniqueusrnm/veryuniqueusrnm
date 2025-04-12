@@ -11,7 +11,7 @@
 - 🇫🇷 Languages: Hungarian, English.
 - 🇫🇷 Languages I learned but no longer use: Bulgarian, Chinese, Romanian, Russian, Spanish.
 
-(https://veryuniqueusrnm.github.io/assets/i/renders/New%20Project2.png)
+(img)[https://veryuniqueusrnm.github.io/assets/i/renders/New%20Project2.png]
 
 <details>
 <summary>Spoiler</summary>
