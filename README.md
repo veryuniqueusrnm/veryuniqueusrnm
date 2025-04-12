@@ -7,7 +7,7 @@
 - 🇫🇷 Languages I learned but no longer use: Bulgarian, Chinese, Romanian, Russian, Spanish.
   
 <div align="center">
-![Youhuu](https://veryuniqueusrnm.github.io/assets/i/renders/New%20Project2.png)
+  <img src="https://veryuniqueusrnm.github.io/assets/i/renders/New%20Project2.png"/>
 </div>
 
 <details>
