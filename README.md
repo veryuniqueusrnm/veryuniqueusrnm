@@ -13,6 +13,6 @@
 <details>
 <summary>Spoiler</summary>
 
-<p style="font-size: 10px";>Youhuu the racka sheep is the property of World Athletics, no personnel has approved to use it!</p>
+<p style="font-size: 10px";>Youhuu the racka sheep is the property of World Athletics, no personnel has approved to use it! I don't want or plan to use it to adverise, gain- any financial income or popularity with it!</p>
 
 </details>
